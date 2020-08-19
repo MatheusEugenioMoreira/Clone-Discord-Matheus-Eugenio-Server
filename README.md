@@ -1,6 +1,7 @@
-Clone-Discord-Matheus-Eugenio-Server
+#Clone-Discord-Matheus-Eugenio-Server
+
 Starting Dev Environment
 
-Run npm install or yarn install.
+1)Run npm install or yarn install.
 
-Run yarn start and access http://localhost:3000
+2)Run yarn start and access http://localhost:3000
